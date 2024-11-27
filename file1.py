@@ -1,1 +1,2 @@
-changes in file1.py from branch2
+combined both files and resolved the conflict
+
